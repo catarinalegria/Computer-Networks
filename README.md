@@ -1,2 +1,2 @@
 # Computer Networks
-Project of my Computer Networks course
+Final project of my Computer Networks course
